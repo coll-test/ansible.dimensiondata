@@ -1,0 +1,13 @@
+plugins/module_utils/dimensiondata.py future-import-boilerplate
+plugins/module_utils/dimensiondata.py metaclass-boilerplate
+plugins/modules/dimensiondata_network.py validate-modules:doc-choices-do-not-match-spec
+plugins/modules/dimensiondata_network.py validate-modules:doc-missing-type
+plugins/modules/dimensiondata_network.py validate-modules:parameter-type-not-in-doc
+plugins/modules/dimensiondata_vlan.py validate-modules:doc-choices-do-not-match-spec
+plugins/modules/dimensiondata_vlan.py validate-modules:doc-missing-type
+plugins/modules/dimensiondata_vlan.py validate-modules:doc-required-mismatch
+plugins/modules/dimensiondata_vlan.py validate-modules:parameter-type-not-in-doc
+plugins/doc_fragments/dimensiondata.py future-import-boilerplate
+plugins/doc_fragments/dimensiondata.py metaclass-boilerplate
+plugins/doc_fragments/dimensiondata_wait.py future-import-boilerplate
+plugins/doc_fragments/dimensiondata_wait.py metaclass-boilerplate
